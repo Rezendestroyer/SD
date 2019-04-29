@@ -1,2 +1,0 @@
-Porta: 6789
-Endereco: localhost
