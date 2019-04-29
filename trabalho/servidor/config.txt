@@ -1,2 +1,2 @@
 Porta: 6789
-Servidor: localhost
+Endereco: localhost
